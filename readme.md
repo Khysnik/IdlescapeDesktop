@@ -1,4 +1,4 @@
-#Idlescape Desktop
+# Idlescape Desktop
 
 Idlescape Desktop is an unofficial application for Windows made by Sebaxavi7533. https://justpaste.it/9xxe7
 
